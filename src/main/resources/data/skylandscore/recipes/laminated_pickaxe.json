@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "skylandscore:laminated_dragon_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "skylandscore:laminated_crystal"
+  },
+  "result": {
+    "item": "skylandscore:laminated_pickaxe"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Amplified",
+  "icon": "skylandscore:jagged_dragon_essence",
+  "category": "skylandscore:portals_category",
+  "read_by_default": true,
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Amplified Dimension, and will take the player to the End to begin the Sixth boss fight.$(br)This portal is made from \"Amplified End Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "End Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:tropo_portal_end_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Jagged Stone Tablet\""
+
+    }
+  ]
+}

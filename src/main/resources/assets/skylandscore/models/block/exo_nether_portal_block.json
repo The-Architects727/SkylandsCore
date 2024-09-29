@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/crimson_portal",
+    "side": "skylandscore:block/crimson",
+    "top": "skylandscore:block/crimson"
+  }
+}

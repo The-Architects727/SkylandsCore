@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_shifting_dragon_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "skylandscore:shifting_dragon_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "skylandscore:tropo_portal_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_shifting_dragon_essence",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "skylandscore:tropo_portal_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

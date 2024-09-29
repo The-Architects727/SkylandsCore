@@ -1,0 +1,14 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "skylandscore:jagged_dragon_essence"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "skylandscore:magenta_dragon_essence_fluid",
+      "amount": 1000
+    }
+  ]
+}

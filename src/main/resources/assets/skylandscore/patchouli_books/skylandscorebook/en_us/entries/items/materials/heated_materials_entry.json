@@ -1,0 +1,71 @@
+{
+  "name": "Blazing Materials",
+  "icon": "skylandscore:heated_crystal_tablet",
+  "category": "skylandscore:items_category",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This section contains all of the Thermospherical/Blazing Materials"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_dust"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_brick"
+      }
+    },
+    {
+      "title": "Charged Blazing Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_heated_crystal_brick"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_tablet"
+      }
+    },
+    {
+      "title": "Blazing Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_dragon_essence"
+      }
+    },
+    {
+      "title": "Green Essence Bucket",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:green_dragon_essence_bucket"
+      }
+    },
+    {
+      "title": "Blazing +Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_dragon_upgrade_template"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_pickaxe"
+      }
+    }
+  ]
+}

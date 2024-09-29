@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dragon_head"
+    },
+    "title": {
+      "text": "Tropospherical Draconic Shard",
+      "color": "gold"
+    },
+    "description": {
+      "text": "Kill the Tropospherical Shard of the Dragon",
+      "color": "yellow"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:ender_dragon",
+              "nbt": "{CustomName:'{\"text\":\"Tropospherical Shard of the Dragon\"}'}",
+              "location": {
+                "dimension": "minecraft:the_end"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "skylandscore:leavetropodelay",
+    "loot": [
+      "skylandscore:tropo_dragon_death"
+    ]
+  }
+}

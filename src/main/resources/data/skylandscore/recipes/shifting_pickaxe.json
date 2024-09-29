@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "skylandscore:shifting_dragon_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "skylandscore:shifting_crystal"
+  },
+  "result": {
+    "item": "skylandscore:shifting_pickaxe"
+  }
+}

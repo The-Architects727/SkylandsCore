@@ -1,0 +1,1 @@
+schedule function skylandscore:leaveamplifieddelaycall 500

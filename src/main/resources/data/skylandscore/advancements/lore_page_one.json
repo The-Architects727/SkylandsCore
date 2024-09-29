@@ -1,0 +1,42 @@
+{
+  "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+  "display": {
+    "title": {
+      "text": "Lore Page",
+      "bold": true,
+      "underlined": true,
+      "color": "dark_green"
+    },
+    "description": {
+      "text": "Read a Page from the Compiled Manuscript",
+      "color": "blue"
+    },
+    "icon": {
+      "item": "minecraft:book"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "lore": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "skylandscore:lore_page",
+          "nbt": "{lorePage:1b}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "lore"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

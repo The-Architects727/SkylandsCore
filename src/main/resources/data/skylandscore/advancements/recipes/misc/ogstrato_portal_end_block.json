@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stratified_stone_tablet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "skylandscore:stratified_stone_tablet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "skylandscore:ogstrato_portal_end_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_stratified_stone_tablet",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "skylandscore:ogstrato_portal_end_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

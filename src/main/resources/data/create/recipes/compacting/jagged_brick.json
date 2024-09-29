@@ -1,0 +1,42 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "item": "skylandscore:jagged_stone_dust"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:jagged_stone_brick"
+    }
+  ]
+}

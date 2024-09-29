@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#skylandscore:is_shattered",
+  "features": "skylandscore:jagged_stone_ore_shattered_placed",
+  "step": "underground_ores"
+}

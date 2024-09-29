@@ -1,0 +1,70 @@
+{
+  "name": "OG Strato Stage",
+  "icon": "skylandscore:stratified_pickaxe",
+  "category": "skylandscore:stages_category",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:stratified_stone_ore"
+      },
+      "text": "Can only be mined with an \"Iron Pickaxe\" or higher."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:stratified_stone"
+      },
+      "text": "Obtained from \"Stratified Stone Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:stratified_stone_dust"
+      },
+      "text": "Made from crushing \"Stratified Stones\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:stratified_stone_brick"
+      },
+      "text": "Made from compacting \"Stratified Stone Dust\", \"Clay Balls\", and \"Lava\"."
+    },
+    {
+      "title": "Charged Stratified Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_stratified_stone_brick"
+      },
+      "text": "Made from Electrifying \"Stratified Stone Bricks\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:stratified_stone_tablet"
+      },
+      "text": "Obtained from a Sequenced Assembly starting with \"Charged Stratified Stone Brick\", and adding to it \"Stratified Stone\", and \"Lava\"."
+    },
+    {
+      "title": "Nether Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:ogstrato_portal_block",
+      "text": "Used in making the OG Stratospherical Nether Portal"
+    },
+    {
+      "title": "End Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:ogstrato_portal_end_block",
+      "text": "Used in making the OG Stratospherical End Portal"
+    },
+    {
+      "title": "Return Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:ogstrato_nether_portal_block",
+      "text": "Used in making the OG Stratospherical Portal"
+    }
+  ]
+}

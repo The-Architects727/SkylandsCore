@@ -1,0 +1,101 @@
+{
+  "name": "Exo Stage",
+  "icon": "skylandscore:pocked_pickaxe",
+  "category": "skylandscore:stages_category",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "title": "Laminated Upgrade Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_dragon_upgrade_template"
+      },
+      "text": "This is used to upgrade a diamond pickaxe to the \"Laminated\" level.$(br2) This is made from Spouting \"Liquid Orange Dragon Essence\" onto a \"Netherite Upgrade Template\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_pickaxe"
+      },
+      "text": "This pickaxe is required to mine the \"Laminated Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_ore"
+      },
+      "text": "Can only be mined with a \"Laminated Pickaxe\" or higher."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal"
+      },
+      "text": "Obtained from \"Laminated Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_dust"
+      },
+      "text": "Made from crushing \"Laminated Crystals\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_brick"
+      },
+      "text": "Made from compacting \"Laminated Crystal Dust\", \"Clay Balls\", and \"Lava\"."
+    },
+    {
+      "title": "Charged Laminated Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_laminated_crystal_brick"
+      },
+      "text": "Made from Electrifying \"Laminated Crystal Bricks\"."
+    },
+    {
+      "title": "Laminated Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_dragon_essence"
+      },
+      "text": "Obtained from killing the \"Stratospherical Shard of the Dragon\"."
+    },
+    {
+      "title": "Liquid Orange Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:orange_dragon_essence_bucket"
+      },
+      "text": "Obtained from draining a \"Laminated Dragon Essence\" item."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_tablet"
+      },
+      "text": "Obtained from a Sequenced Assembly starting with \"Charged Laminated Crystal Brick\", and adding to it \"Laminated Crystal\", and \"Liquid Orange Dragon Essence\"."
+    },
+    {
+      "title": "Nether Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:exo_portal_block",
+      "text": "Used in making the Exospherical Nether Portal"
+    },
+    {
+      "title": "End Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:exo_portal_end_block",
+      "text": "Used in making the Exospherical End Portal"
+    },
+    {
+      "title": "Return Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:exo_nether_portal_block",
+      "text": "Used in making the Exospherical Portal"
+    }
+  ]
+}

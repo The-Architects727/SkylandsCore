@@ -1,0 +1,71 @@
+{
+  "name": "Laminated Materials",
+  "icon": "skylandscore:laminated_crystal_tablet",
+  "category": "skylandscore:items_category",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This section contains all of the Stratospherical/Laminated Materials"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_dust"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_brick"
+      }
+    },
+    {
+      "title": "Charged Laminated Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_laminated_crystal_brick"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_tablet"
+      }
+    },
+    {
+      "title": "Lamintated Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_dragon_essence"
+      }
+    },
+    {
+      "title": "Green Essence Bucket",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:green_dragon_essence_bucket"
+      }
+    },
+    {
+      "title": "Laminated +Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_dragon_upgrade_template"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_pickaxe"
+      }
+    }
+  ]
+}

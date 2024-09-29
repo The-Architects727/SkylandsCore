@@ -1,0 +1,101 @@
+{
+  "name": "Thermo Stage",
+  "icon": "skylandscore:heated_pickaxe",
+  "category": "skylandscore:stages_category",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "title": "Pocked Upgrade Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pocked_dragon_upgrade_template"
+      },
+      "text": "This is used to upgrade a diamond pickaxe to the \"Pocked\" level.$(br2) This is made from Spouting \"Liquid Yellow Dragon Essence\" onto a \"Netherite Upgrade Template\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pocked_pickaxe"
+      },
+      "text": "This pickaxe is required to mine the \"Blazing Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_ore"
+      },
+      "text": "Can only be mined with a \"Pocked Pickaxe\" or higher."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal"
+      },
+      "text": "Obtained from \"Blazing Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_dust"
+      },
+      "text": "Made from crushing \"Blazing Crystals\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_brick"
+      },
+      "text": "Made from compacting \"Blazing Crystal Dust\", \"Clay Balls\", and \"Lava\"."
+    },
+    {
+      "title": "Charged Heated Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_heated_crystal_brick"
+      },
+      "text": "Made from Electrifying \"Blazing Crystal Bricks\"."
+    },
+    {
+      "title": "Pocked Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pocked_dragon_essence"
+      },
+      "text": "Obtained from killing the \"Exospherical Shard of the Dragon\"."
+    },
+    {
+      "title": "Liquid Yellow Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:yellow_dragon_essence_bucket"
+      },
+      "text": "Obtained from draining a \"Pocked Dragon Essence\" item."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_tablet"
+      },
+      "text": "Obtained from a Sequenced Assembly starting with \"Charged Heated Crystal Brick\", and adding to it \"Heated Crystal\", and \"Liquid Yellow Dragon Essence\"."
+    },
+    {
+      "title": "Nether Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:thermo_portal_block",
+      "text": "Used in making the Thermospherical Nether Portal"
+    },
+    {
+      "title": "End Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:thermo_portal_end_block",
+      "text": "Used in making the Thermospherical End Portal"
+    },
+    {
+      "title": "Return Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:thermo_nether_portal_block",
+      "text": "Used in making the Thermospherical Portal"
+    }
+  ]
+}

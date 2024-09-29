@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/umbran_portal",
+    "side": "skylandscore:block/umbran_log",
+    "top": "skylandscore:block/umbran_log"
+  }
+}

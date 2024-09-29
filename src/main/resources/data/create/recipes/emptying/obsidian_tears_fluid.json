@@ -1,0 +1,14 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "skylandscore:obsidian_tears"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "skylandscore:obsidian_tears_fluid",
+      "amount": 250
+    }
+  ]
+}

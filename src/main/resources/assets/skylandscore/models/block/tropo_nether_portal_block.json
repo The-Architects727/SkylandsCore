@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/flesh_portal",
+    "side": "skylandscore:block/flesh",
+    "top": "skylandscore:block/flesh"
+  }
+}

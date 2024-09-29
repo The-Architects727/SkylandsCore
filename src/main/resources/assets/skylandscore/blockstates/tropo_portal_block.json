@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "skylandscore:block/tropo_portal_block",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "skylandscore:block/tropo_portal_block"
+    },
+    "facing=south": {
+      "model": "skylandscore:block/tropo_portal_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "skylandscore:block/tropo_portal_block",
+      "y": 270
+    }
+  }
+}

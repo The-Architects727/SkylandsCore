@@ -1,0 +1,143 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "transitionalItem": {
+    "item": "skylandscore:unfinished_final_shard"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:red_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:orange_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:yellow_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:green_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:blue_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:purple_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        },
+        {
+          "fluid": "skylandscore:magenta_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_final_shard"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:final_dragon_shard"
+    }
+  ],
+  "loops": 10
+}

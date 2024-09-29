@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "skylandscore:pocked_dragon_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "skylandscore:pocked_crystal"
+  },
+  "result": {
+    "item": "skylandscore:pocked_pickaxe"
+  }
+}

@@ -1,0 +1,1 @@
+execute as @a[advancements={skylandscore:killwithogstrato=true}] run advancement revoke @s only skylandscore:killwithogstrato

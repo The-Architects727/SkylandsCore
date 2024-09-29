@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "skylandscore:glitched_stone_brick",
+		"count": 1
+	},
+	"result": {
+		"item": "skylandscore:charged_glitched_stone_brick",
+		"count": 1
+	},
+	"energy": 5000000,
+	"maxChargeRate": 200
+}

@@ -1,0 +1,42 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "item": "skylandscore:stratified_stone_dust"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:stratified_stone_brick"
+    }
+  ]
+}

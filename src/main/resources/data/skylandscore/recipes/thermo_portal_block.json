@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "skylandscore:heated_crystal_tablet"
+    },
+    "W": {
+      "item": "biomesoplenty:willow_wood"
+    }
+  },
+  "pattern": [
+    "WDW",
+    "DTD",
+    "WDW"
+  ],
+  "result": {
+    "count": 5,
+    "item": "skylandscore:thermo_portal_block"
+  },
+  "show_notification": true
+}

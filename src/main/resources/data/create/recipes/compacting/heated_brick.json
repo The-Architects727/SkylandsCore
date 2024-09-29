@@ -1,0 +1,42 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "item": "skylandscore:heated_crystal_dust"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:heated_crystal_brick"
+    }
+  ]
+}

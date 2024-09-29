@@ -1,0 +1,80 @@
+{
+  "name": "OG Stratospherical",
+  "icon": "skylandscore:stratified_dragon_essence",
+  "category": "skylandscore:portals_category",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the overworld, and will take the player to the End to begin the first boss fight.$(br)This portal is made from \"Original Stratospherical End Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "End Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:ogstrato_portal_end_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Stratified Stone Tablet\"",
+      "anchor": "ogstrato_end_portal_structure"
+    },
+
+
+    {
+      "type": "patchouli:text",
+      "text": "In the overworld simply use the vanilla nether portal to reach the OG Stratospherical Nether."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Nether Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "minecraft:obsidian"
+        }
+      },
+      "anchor": "ogstrato_nether_portal_structure"
+
+    },
+
+
+
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Stratospherical Dimension, and will take the player back to the Overworld.$(br)This portal is made from \"Original Stratospherical Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Return Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:ogstrato_portal_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Red Dragon Essence\"",
+      "anchor": "ogstrato_portal_structure"
+    }
+  ]
+}

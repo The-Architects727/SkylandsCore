@@ -1,0 +1,58 @@
+{
+  "name": "Ores",
+  "icon": "skylandscore:heated_ore",
+  "category": "skylandscore:items_category",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:stratified_stone_ore"
+      },
+      "text": "Can be mined with an Iron Pickaxe.$(br2)Drops Stratified Stone when broken"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:laminated_crystal_ore"
+      },
+      "text": "Can be mined with an Stratified Pickaxe.$(br2)Drops Laminated Crystal when broken"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pocked_crystal_ore"
+      },
+      "text": "Can be mined with an Laminated Pickaxe.$(br2)Drops Pocked Crystal when broken"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_crystal_ore"
+      },
+      "text": "Can be mined with an Pocked Pickaxe.$(br2)Drops Blazing Crystal when broken"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_crystal_ore"
+      },
+      "text": "Can be mined with an Blazing Pickaxe.$(br2)Drops Pearl Crystal when broken"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_crystal_ore"
+      },
+      "text": "Can be mined with an Pearl Pickaxe.$(br2)Drops Shifting Crystal when broken"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:jagged_stone_ore"
+      },
+      "text": "Can be mined with an Shifting Pickaxe.$(br2)Drops Jagged Stone when broken"
+    }
+  ]
+}

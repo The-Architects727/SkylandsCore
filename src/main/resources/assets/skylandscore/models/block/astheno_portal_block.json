@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/deepslate_bricks",
+    "side": "skylandscore:block/deepslate_bricks",
+    "top": "skylandscore:block/deepslate_portal"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:pearl_crystal_brick"
+    }
+  ]
+}

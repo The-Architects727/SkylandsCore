@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "skylandscore:pearl_crystal_tablet"
+    },
+    "W": {
+      "item": "biomesoplenty:jacaranda_wood"
+    }
+  },
+  "pattern": [
+    "WDW",
+    "TDT",
+    "WDW"
+  ],
+  "result": {
+    "count": 10,
+    "item": "skylandscore:meso_portal_end_block"
+  },
+  "show_notification": true
+}

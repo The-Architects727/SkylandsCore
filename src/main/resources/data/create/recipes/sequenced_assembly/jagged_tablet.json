@@ -1,0 +1,95 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "skylandscore:charged_jagged_stone_brick"
+  },
+  "transitionalItem": {
+    "item": "skylandscore:unfinished_jagged_stone_tablet"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        },
+        {
+          "item": "skylandscore:jagged_stone"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        },
+        {
+          "fluid": "skylandscore:purple_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        },
+        {
+          "fluid": "skylandscore:purple_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_jagged_stone_tablet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:jagged_stone_tablet"
+    }
+  ],
+  "loops": 10
+}

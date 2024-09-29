@@ -1,0 +1,11 @@
+{
+  "type": "eco:the_enclosed_overworld",
+      "generator": {
+        "type": "minecraft:noise",
+        "settings": "eco:asthenospherical",
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:overworld"
+        }
+      }
+}

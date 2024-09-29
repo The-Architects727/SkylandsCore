@@ -1,0 +1,1 @@
+schedule function skylandscore:leaveogstratodelaycall 500

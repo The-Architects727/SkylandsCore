@@ -1,0 +1,112 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "skylandscore:charged_shifting_crystal_brick"
+  },
+  "transitionalItem": {
+    "item": "skylandscore:unfinished_shifting_crystal_tablet"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        },
+        {
+          "item": "skylandscore:shifting_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        },
+        {
+          "item": "minecraft:diorite"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        },
+        {
+          "item": "minecraft:granite"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        },
+        {
+          "item": "minecraft:andesite"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        },
+        {
+          "fluid": "skylandscore:blue_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_shifting_crystal_tablet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:shifting_crystal_tablet"
+    }
+  ],
+  "loops": 6
+}

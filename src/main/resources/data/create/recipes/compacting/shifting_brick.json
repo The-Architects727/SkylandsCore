@@ -1,0 +1,42 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "item": "skylandscore:shifting_crystal_dust"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:shifting_crystal_brick"
+    }
+  ]
+}

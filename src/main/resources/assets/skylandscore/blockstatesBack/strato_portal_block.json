@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "skylandscoreingrediants:block/strato_portal_block"},
+    "facing=east":  { "model": "skylandscoreingrediants:block/strato_portal_block", "y":  90},
+    "facing=south": { "model": "skylandscoreingrediants:block/strato_portal_block", "y": 180},
+    "facing=west":  { "model": "skylandscoreingrediants:block/strato_portal_block", "y": 270}
+  }
+}

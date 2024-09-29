@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "skylandscore:item/unfinished_pocked_crystal_tablet"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/magic_portal",
+    "side": "skylandscore:block/magic_log",
+    "top": "skylandscore:block/magic_log"
+  }
+}

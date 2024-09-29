@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "skylandscore:jagged_stone_tablet"
+    },
+    "W": {
+      "item": "biomesoplenty:redwood_wood"
+    }
+  },
+  "pattern": [
+    "WDW",
+    "TDT",
+    "WDW"
+  ],
+  "result": {
+    "count": 10,
+    "item": "skylandscore:amplified_portal_block"
+  },
+  "show_notification": true
+}

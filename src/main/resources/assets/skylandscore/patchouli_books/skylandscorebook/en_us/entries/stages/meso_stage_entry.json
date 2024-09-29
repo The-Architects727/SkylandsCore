@@ -1,0 +1,101 @@
+{
+  "name": "Meso Stage",
+  "icon": "skylandscore:pearl_pickaxe",
+  "category": "skylandscore:stages_category",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "title": "Pearl Upgrade Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_dragon_upgrade_template"
+      },
+      "text": "This is used to upgrade a diamond pickaxe to the \"Pearl\" level.$(br2) This is made from Spouting \"Liquid Green Dragon Essence\" onto a \"Netherite Upgrade Template\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_pickaxe"
+      },
+      "text": "This pickaxe is required to mine the \"Pearl Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_crystal_ore"
+      },
+      "text": "Can only be mined with a \"Pearl Pickaxe\" or higher."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_crystal"
+      },
+      "text": "Obtained from \"Pearl Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_crystal_dust"
+      },
+      "text": "Made from crushing \"Pearl Crystals\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_crystal_brick"
+      },
+      "text": "Made from compacting \"Pearl Crystal Dust\", \"Clay Balls\", and \"Lava\"."
+    },
+    {
+      "title": "Charged Pearl Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_pearl_crystal_brick"
+      },
+      "text": "Made from Electrifying \"Pearl Crystal Bricks\"."
+    },
+    {
+      "title": "Blazing Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_dragon_essence"
+      },
+      "text": "Obtained from killing the \"Thermospherical Shard of the Dragon\"."
+    },
+    {
+      "title": "Liquid Green Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:green_dragon_essence_bucket"
+      },
+      "text": "Obtained from draining a \"Blazing Dragon Essence\" item."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:pearl_crystal_tablet"
+      },
+      "text": "Obtained from a Sequenced Assembly starting with \"Charged Pearl Crystal Brick\", and adding to it \"Pearl Crystal\", and \"Liquid Green Dragon Essence\"."
+    },
+    {
+      "title": "Nether Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:meso_portal_block",
+      "text": "Used in making the Mesospherical Nether Portal"
+    },
+    {
+      "title": "End Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:meso_portal_end_block",
+      "text": "Used in making the Mesospherical End Portal"
+    },
+    {
+      "title": "Return Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:meso_nether_portal_block",
+      "text": "Used in making the Mesospherical Portal"
+    }
+  ]
+}

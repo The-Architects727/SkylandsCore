@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "skylandscore:pocked_crystal_brick",
+		"count": 1
+	},
+	"result": {
+		"item": "skylandscore:charged_pocked_crystal_brick",
+		"count": 1
+	},
+	"energy": 25000,
+	"maxChargeRate": 200
+}

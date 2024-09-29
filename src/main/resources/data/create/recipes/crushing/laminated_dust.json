@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "skylandscore:laminated_crystal"
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:laminated_crystal_dust",
+      "count": 3
+    },
+    {
+      "item": "skylandscore:laminated_crystal_dust",
+      "count": 1,
+      "chance": 0.25
+    },
+    {
+      "item": "skylandscore:laminated_crystal_dust",
+      "count": 1,
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 100
+}

@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "minecraft:emerald",
+		"count": 1
+	},
+	"result": {
+		"item": "skylandscore:charged_emerald",
+		"count": 1
+	},
+	"energy": 2000,
+	"maxChargeRate": 200
+}

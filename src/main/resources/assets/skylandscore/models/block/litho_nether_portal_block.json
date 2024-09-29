@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/brimstone_bricks",
+    "side": "skylandscore:block/brimstone_bricks",
+    "top": "skylandscore:block/brimstone_portal"
+  }
+}

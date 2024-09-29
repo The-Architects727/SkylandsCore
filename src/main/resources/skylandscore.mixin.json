@@ -1,0 +1,16 @@
+{
+  "compatibilityLevel": "JAVA_17",
+  "package": "net.architects.skylandscore.mixins",
+  "refmap": "mixins.skylandscore.refmap.json",
+  "required": true,
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "DragonFight"
+  ],
+  "client": [
+  ],
+  "server": [
+  ]
+}

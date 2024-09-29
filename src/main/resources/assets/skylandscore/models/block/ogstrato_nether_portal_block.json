@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "skylandscore:block/hellbark_portal",
+    "side": "skylandscore:block/hellbark_log",
+    "top": "skylandscore:block/hellbark_log"
+  }
+}

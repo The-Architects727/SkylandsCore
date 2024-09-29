@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "skylandscore:block/stratified_stone_block"
+  }
+}

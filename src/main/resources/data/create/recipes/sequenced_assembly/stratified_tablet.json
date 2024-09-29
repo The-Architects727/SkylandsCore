@@ -1,0 +1,77 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "skylandscore:charged_stratified_stone_brick"
+  },
+  "transitionalItem": {
+    "item": "skylandscore:unfinished_stratified_stone_tablet"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        },
+        {
+          "item": "skylandscore:stratified_stone"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "nbt": {},
+          "amount": 500
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_stratified_stone_tablet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:stratified_stone_tablet"
+    }
+  ],
+  "loops": 1
+}

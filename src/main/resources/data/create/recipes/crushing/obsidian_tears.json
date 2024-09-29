@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "skylandscore:obsidian_tears",
+      "count": 1,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 100
+}

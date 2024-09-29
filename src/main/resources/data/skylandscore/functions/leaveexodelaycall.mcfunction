@@ -1,0 +1,1 @@
+execute as @a[advancements={skylandscore:kill_exo_dragon=true}] run function skylandscore:leaveexo

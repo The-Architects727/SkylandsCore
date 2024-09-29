@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "skylandscore:item/charged_infused_glitched_stone_brick"
+  }
+}

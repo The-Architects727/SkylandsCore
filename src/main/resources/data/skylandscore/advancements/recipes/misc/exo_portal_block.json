@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pocked_dragon_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "skylandscore:pocked_dragon_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "skylandscore:exo_portal_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_pocked_dragon_essence",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "skylandscore:exo_portal_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "skylandscore:pearl_crystal"
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:pearl_crystal_dust",
+      "count": 3
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust",
+      "count": 1,
+      "chance": 0.25
+    },
+    {
+      "item": "skylandscore:pearl_crystal_dust",
+      "count": 1,
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 100
+}

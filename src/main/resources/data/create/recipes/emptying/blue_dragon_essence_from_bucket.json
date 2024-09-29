@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "skylandscore:blue_dragon_essence_bucket"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "fluid": "skylandscore:blue_dragon_essence_fluid",
+      "amount": 1000
+    }
+  ]
+}

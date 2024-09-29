@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "skylandscore:jagged_dragon_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "skylandscore:jagged_stone"
+  },
+  "result": {
+    "item": "skylandscore:jagged_pickaxe"
+  }
+}

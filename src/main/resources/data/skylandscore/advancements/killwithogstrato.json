@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "KillWithOGStrato": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "source_entity": {
+            "equipment": {
+              "mainhand": {
+                "items": "minecraft:netherite_sword"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "KillWithOGStrato"
+    ]
+  ],
+  "rewards": {
+    "function": "skylandscore:ogstratolootreset",
+    "loot": [
+      "skylandscore:amplified_dragon_death"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "skylandscore:charged_heated_crystal_brick"
+  },
+  "transitionalItem": {
+    "item": "skylandscore:unfinished_heated_crystal_tablet"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        },
+        {
+          "item": "skylandscore:heated_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        },
+        {
+          "fluid": "skylandscore:yellow_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_heated_crystal_tablet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:heated_crystal_tablet"
+    }
+  ],
+  "loops": 3
+}

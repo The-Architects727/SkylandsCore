@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#skylandscore:is_shattered",
+  "features": "skylandscore:pearl_crystal_ore_shattered_placed",
+  "step": "underground_ores"
+}

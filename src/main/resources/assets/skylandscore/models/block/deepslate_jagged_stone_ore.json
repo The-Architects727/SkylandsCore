@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "skylandscore:block/deepslate_jagged_stone_ore"
+  }
+}

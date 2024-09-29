@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "skylandscore:item/green_dragon_essence_bucket"
+  }
+}

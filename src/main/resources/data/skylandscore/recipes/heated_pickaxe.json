@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "skylandscore:heated_dragon_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "skylandscore:heated_crystal"
+  },
+  "result": {
+    "item": "skylandscore:heated_pickaxe"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Stratospherical",
+  "icon": "skylandscore:laminated_dragon_essence",
+  "category": "skylandscore:portals_category",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Stratospherical Dimension, and will take the player to the End to begin the Second boss fight.$(br)This portal is made from \"Stratospherical End Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "End Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:strato_portal_end_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Laminated Crystal Tablet\""
+
+    },
+
+
+
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Stratospherical Dimension, and will take the player to the Stratospherical Nether$(br)This portal is made from \"Stratospherical Nether Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "End Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:strato_nether_portal_block"
+        }
+      },
+      "text": "This portal frame must be lit using a $(item)\"Bucket of Lava\""
+
+    },
+
+
+
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Exospherical Dimension, and will take the player back to the Stratospherical Dimension.$(br)This portal is made from \"Stratospherical Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Return Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:strato_portal_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Orange Dragon Essence\""
+    }
+  ]
+}

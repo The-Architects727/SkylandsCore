@@ -1,0 +1,45 @@
+{
+  "name": "Misc Materials",
+  "icon": "skylandscore:charged_emerald",
+  "category": "skylandscore:items_category",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This section contains all Materials that do not pertain to any one section"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_emerald"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:lore_page"
+      }
+    },
+    {
+      "title": "Draconic Core",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:final_dragon_shard"
+      }
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:obsidian_tears"
+      }
+    },
+    {
+      "title": "Obsidian Tears Bucket",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:obsidian_tears_bucket"
+      }
+    }
+  ]
+}

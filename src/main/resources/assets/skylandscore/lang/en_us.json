@@ -1,0 +1,210 @@
+{
+
+  "entity.skylandscore.stone_orb": "Stone Orb",
+
+  "item.skylandscore.stratified_pickaxe": "Stratified Pickaxe",
+  "item.skylandscore.laminated_pickaxe": "Laminated Pickaxe",
+  "item.skylandscore.pocked_pickaxe": "Pocked Pickaxe",
+  "item.skylandscore.heated_pickaxe": "Blazing Pickaxe",
+  "item.skylandscore.pearl_pickaxe": "Pearl Pickaxe",
+  "item.skylandscore.shifting_pickaxe": "Shifting Pickaxe",
+  "item.skylandscore.jagged_pickaxe": "Jagged Pickaxe",
+  "item.skylandscore.obsidian_tears_bucket": "Bucket of Obsidian Tears",
+  "item.skylandscore.obsidian_tears": "Obsidian Tear",
+
+  "item.skylandscore.red_dragon_essence_bucket": "Bucket of Liquid Red Dragon Essence",
+  "item.skylandscore.orange_dragon_essence_bucket": "Bucket of Liquid Orange Dragon Essence",
+  "item.skylandscore.yellow_dragon_essence_bucket": "Bucket of Liquid Yellow Dragon Essence",
+  "item.skylandscore.green_dragon_essence_bucket": "Bucket of Liquid Green Dragon Essence",
+  "item.skylandscore.blue_dragon_essence_bucket": "Bucket of Liquid Blue Dragon Essence",
+  "item.skylandscore.purple_dragon_essence_bucket": "Bucket of Liquid Purple Dragon Essence",
+  "item.skylandscore.magenta_dragon_essence_bucket": "Bucket of Liquid Magenta Dragon Essence",
+
+  "item.skylandscore.final_dragon_shard": "Complete Shard of the Dragon",
+
+
+  "fluid_type.skylandscore.obsidian_tears_fluid": "Obsidian Tears",
+
+  "fluid_type.skylandscore.red_dragon_essence_fluid": "Liquid Red Dragon Essence",
+  "fluid_type.skylandscore.orange_dragon_essence_fluid": "Liquid Orange Dragon Essence",
+  "fluid_type.skylandscore.yellow_dragon_essence_fluid": "Liquid Yellow Dragon Essence",
+  "fluid_type.skylandscore.green_dragon_essence_fluid": "Liquid Green Dragon Essence",
+  "fluid_type.skylandscore.blue_dragon_essence_fluid": "Liquid Blue Dragon Essence",
+  "fluid_type.skylandscore.purple_dragon_essence_fluid": "Liquid Purple Dragon Essence",
+  "fluid_type.skylandscore.magenta_dragon_essence_fluid": "Liquid Magenta Dragon Essence",
+
+  "item.skylandscore.lore_page": "Manuscript Scrap",
+
+
+  "item.skylandscore.stratified_dragon_essence": "Stratified Dragonic Essence",
+  "item.skylandscore.laminated_dragon_essence": "Laminated Dragonic Essence",
+  "item.skylandscore.pocked_dragon_essence": "Pocked Dragonic Essence",
+  "item.skylandscore.heated_dragon_essence": "Blazing Dragonic Essence",
+  "item.skylandscore.pearl_dragon_essence": "Pearl Dragonic Essence",
+  "item.skylandscore.shifting_dragon_essence": "Shifting Dragonic Essence",
+  "item.skylandscore.jagged_dragon_essence": "Jagged Dragonic Essence",
+
+
+  "item.skylandscore.stratified_dragon_upgrade_template": "Stratified Dragonic Upgrade Template",
+  "item.skylandscore.laminated_dragon_upgrade_template": "Laminated Dragonic Upgrade Template",
+  "item.skylandscore.pocked_dragon_upgrade_template": "Pocked Dragonic Upgrade Template",
+  "item.skylandscore.heated_dragon_upgrade_template": "Blazing Dragonic Upgrade Template",
+  "item.skylandscore.pearl_dragon_upgrade_template": "Pearl Dragonic Upgrade Template",
+  "item.skylandscore.shifting_dragon_upgrade_template": "Shifting Dragonic Upgrade Template",
+  "item.skylandscore.jagged_dragon_upgrade_template": "Jagged Dragonic Upgrade Template",
+
+
+
+  "item.skylandscore.heated_crystal": "Blazing Crystal",
+  "item.skylandscore.jagged_stone": "Jagged Stone",
+  "item.skylandscore.laminated_crystal": "Laminated Crystal",
+  "item.skylandscore.pocked_crystal": "Pocked Crystal",
+  "item.skylandscore.pearl_crystal": "Crystal Pearl",
+  "item.skylandscore.shifting_crystal": "Shifting Crystal",
+  "item.skylandscore.stratified_stone": "Stratified Stone",
+
+  "item.skylandscore.heated_crystal_dust": "Blazing Crystal Dust",
+  "item.skylandscore.jagged_stone_dust": "Jagged Stone Dust",
+  "item.skylandscore.laminated_crystal_dust": "Laminated Crystal Dust",
+  "item.skylandscore.pocked_crystal_dust": "Pocked Crystal Dust",
+  "item.skylandscore.pearl_crystal_dust": "Crystal Pearl Dust",
+  "item.skylandscore.shifting_crystal_dust": "Shifting Crystal Dust",
+  "item.skylandscore.stratified_stone_dust": "Stratified Stone Dust",
+  "item.skylandscore.glitched_stone_dust": "Glitched Stone Dust",
+
+  "item.skylandscore.heated_crystal_brick": "Blazing Crystal Brick",
+  "item.skylandscore.jagged_stone_brick": "Jagged Stone Brick",
+  "item.skylandscore.laminated_crystal_brick": "Laminated Crystal Brick",
+  "item.skylandscore.pocked_crystal_brick": "Pocked Crystal Brick",
+  "item.skylandscore.pearl_crystal_brick": "Crystal Pearl Brick",
+  "item.skylandscore.shifting_crystal_brick": "Shifting Crystal Brick",
+  "item.skylandscore.stratified_stone_brick": "Stratified Stone Brick",
+  "item.skylandscore.glitched_stone_brick": "Glitched Stone Brick",
+
+  "item.skylandscore.charged_heated_crystal_brick": "Charged Blazing Crystal Brick",
+  "item.skylandscore.charged_jagged_stone_brick": "Charged Jagged Stone Brick",
+  "item.skylandscore.charged_laminated_crystal_brick": "Charged Laminated Crystal Brick",
+  "item.skylandscore.charged_pocked_crystal_brick": "Charged Pocked Crystal Brick",
+  "item.skylandscore.charged_pearl_crystal_brick": "Charged Crystal Pearl Brick",
+  "item.skylandscore.charged_shifting_crystal_brick": "Charged Shifting Crystal Brick",
+  "item.skylandscore.charged_stratified_stone_brick": "Charged Stratified Stone Brick",
+  "item.skylandscore.charged_glitched_stone_brick": "Charged Glitched Stone Brick",
+
+
+
+  "item.skylandscore.infused_heated_crystal": "Infused Blazing Crystal",
+  "item.skylandscore.infused_jagged_stone": "Infused Jagged Stone",
+  "item.skylandscore.infused_laminated_crystal": "Infused Laminated Crystal",
+  "item.skylandscore.infused_pocked_crystal": "Infused Pocked Crystal",
+  "item.skylandscore.infused_pearl_crystal": "Infused Crystal Pearl",
+  "item.skylandscore.infused_shifting_crystal": "Infused Shifting Crystal",
+  "item.skylandscore.infused_stratified_stone": "Infused Stratified Stone",
+
+  "item.skylandscore.infused_heated_crystal_dust": "Infused Blazing Crystal Dust",
+  "item.skylandscore.infused_jagged_stone_dust": "Infused Jagged Stone Dust",
+  "item.skylandscore.infused_laminated_crystal_dust": "Infused Laminated Crystal Dust",
+  "item.skylandscore.infused_pocked_crystal_dust": "Infused Pocked Crystal Dust",
+  "item.skylandscore.infused_pearl_crystal_dust": "Infused Crystal Pearl Dust",
+  "item.skylandscore.infused_shifting_crystal_dust": "Infused Shifting Crystal Dust",
+  "item.skylandscore.infused_stratified_stone_dust": "Infused Stratified Stone Dust",
+  "item.skylandscore.infused_glitched_stone_dust": "Infused Glitched Stone Dust",
+
+  "item.skylandscore.infused_heated_crystal_brick": "Infused Blazing Crystal Brick",
+  "item.skylandscore.infused_jagged_stone_brick": "Infused Jagged Stone Brick",
+  "item.skylandscore.infused_laminated_crystal_brick": "Infused Laminated Crystal Brick",
+  "item.skylandscore.infused_pocked_crystal_brick": "Infused Pocked Crystal Brick",
+  "item.skylandscore.infused_pearl_crystal_brick": "Infused Crystal Pearl Brick",
+  "item.skylandscore.infused_shifting_crystal_brick": "Infused Shifting Crystal Brick",
+  "item.skylandscore.infused_stratified_stone_brick": "Infused Stratified Stone Brick",
+  "item.skylandscore.infused_glitched_stone_brick": "Infused Glitched Stone Brick",
+
+  "item.skylandscore.charged_infused_heated_crystal_brick": "Charged Infused Blazing Crystal Brick",
+  "item.skylandscore.charged_infused_jagged_stone_brick": "Charged Infused Jagged Stone Brick",
+  "item.skylandscore.charged_infused_laminated_crystal_brick": "Charged Infused Laminated Crystal Brick",
+  "item.skylandscore.charged_infused_pocked_crystal_brick": "Charged Infused Pocked Crystal Brick",
+  "item.skylandscore.charged_infused_pearl_crystal_brick": "Charged Infused Crystal Pearl Brick",
+  "item.skylandscore.charged_infused_shifting_crystal_brick": "Charged Infused Shifting Crystal Brick",
+  "item.skylandscore.charged_infused_stratified_stone_brick": "Charged Infused Stratified Stone Brick",
+  "item.skylandscore.charged_infused_glitched_stone_brick": "Charged Infused Glitched Stone Brick",
+
+
+  "item.skylandscore.charged_emerald": "Energized Emerald",
+
+  "item.skylandscore.heated_crystal_tablet": "Blazing Crystal Tablet",
+  "item.skylandscore.jagged_stone_tablet": "Jagged Stone Tablet",
+  "item.skylandscore.laminated_crystal_tablet": "Laminated Crystal Tablet",
+  "item.skylandscore.pocked_crystal_tablet": "Pocked Crystal Tablet",
+  "item.skylandscore.pearl_crystal_tablet": "Crystal Pearl Tablet",
+  "item.skylandscore.shifting_crystal_tablet": "Shifting Crystal Tablet",
+  "item.skylandscore.stratified_stone_tablet": "Stratified Stone Tablet",
+  "item.skylandscore.glitched_stone_tablet": "Glitched Stone Tablet",
+
+  "item.skylandscore.unfinished_heated_crystal_tablet": "Unfinished Blazing Crystal Tablet",
+  "item.skylandscore.unfinished_jagged_stone_tablet": "Unfinished Jagged Stone Tablet",
+  "item.skylandscore.unfinished_laminated_crystal_tablet": "Unfinished Laminated Crystal Tablet",
+  "item.skylandscore.unfinished_pocked_crystal_tablet": "Unfinished Pocked Crystal Tablet",
+  "item.skylandscore.unfinished_pearl_crystal_tablet": "Unfinished Crystal Pearl Tablet",
+  "item.skylandscore.unfinished_shifting_crystal_tablet": "Unfinished Shifting Crystal Tablet",
+  "item.skylandscore.unfinished_stratified_stone_tablet": "Unfinished Stratified Stone Tablet",
+  "item.skylandscore.unfinished_glitched_stone_tablet": "Unfinished Glitched Stone Tablet",
+
+
+  "block.skylandscore.deepslate_heated_crystal_ore": "Deepslate Blazing Crystal Ore",
+  "block.skylandscore.deepslate_jagged_stone_ore": "Deepslate Jagged Stone Ore",
+  "block.skylandscore.deepslate_laminated_crystal_ore": "Deepslate Laminated Crystal Ore",
+  "block.skylandscore.deepslate_pocked_crystal_ore": "Deepslate Pocked Crystal Ore",
+  "block.skylandscore.deepslate_pearl_crystal_ore": "Deepslate Crystal Pearl Ore",
+  "block.skylandscore.deepslate_shifting_crystal_ore": "Deepslate Shifting Crystal Ore",
+  "block.skylandscore.deepslate_stratified_stone_ore": "Deepslate Stratified Stone Ore",
+
+  "block.skylandscore.heated_crystal_ore": "Blazing Crystal Ore",
+  "block.skylandscore.jagged_stone_ore": "Jagged Stone Ore",
+  "block.skylandscore.laminated_crystal_ore": "Laminated Crystal Ore",
+  "block.skylandscore.pocked_crystal_ore": "Pocked Crystal Ore",
+  "block.skylandscore.pearl_crystal_ore": "Crystal Pearl Ore",
+  "block.skylandscore.shifting_crystal_ore": "Shifting Crystal Ore",
+  "block.skylandscore.stratified_stone_ore": "Stratified Stone Ore",
+
+  "block.skylandscore.heated_crystal_block": "Blazing Crystal Block",
+  "block.skylandscore.jagged_stone_block": "Jagged Stone Block",
+  "block.skylandscore.laminated_crystal_block": "Laminated Crystal Block",
+  "block.skylandscore.pocked_crystal_block": "Pocked Crystal Block",
+  "block.skylandscore.pearl_crystal_block": "Crystal Pearl Block",
+  "block.skylandscore.shifting_crystal_block": "Shifting Crystal Block",
+  "block.skylandscore.stratified_stone_block": "Stratified Stone Block",
+
+  "block.skylandscore.glitched_stone": "§kStone",
+  "block.skylandscore.infused_glitched_stone": "Infused §kStone",
+
+  "block.skylandscore.amplified_portal_block": "Amplified Portal Frame",
+  "block.skylandscore.astheno_portal_block": "Asthenospherical Portal Frame",
+  "block.skylandscore.astheno_nether_portal_block": "Asthenospherical Nether Portal Frame",
+  "block.skylandscore.default_portal_block": "Default Portal Frame",
+  "block.skylandscore.largebiomes_portal_block": "Large Biomes Portal Frame",
+  "block.skylandscore.litho_portal_block": "Lithospherical Portal Frame",
+  "block.skylandscore.litho_nether_portal_block": "Lithospherical Nether Portal Frame",
+  "block.skylandscore.meso_portal_block": "Mesospherical Portal Frame",
+  "block.skylandscore.exo_nether_portal_block": "Exospherical Nether Portal Frame",
+  "block.skylandscore.exo_portal_block": "Exospherical Portal Frame",
+  "block.skylandscore.meso_nether_portal_block": "Mesospherical Nether Portal Frame",
+  "block.skylandscore.strato_portal_block": "Stratospherical Portal Frame",
+  "block.skylandscore.strato_nether_portal_block": "Stratospherical Nether Portal Frame",
+  "block.skylandscore.ogstrato_portal_block": "Original Stratospherical Portal Frame",
+  "block.skylandscore.ogstrato_nether_portal_block": "Original Stratospherical Nether Portal Frame",
+  "block.skylandscore.thermo_portal_block": "Thermospherical Portal Frame",
+  "block.skylandscore.thermo_nether_portal_block": "Thermospherical Nether Portal Frame",
+  "block.skylandscore.tropo_portal_block": "Tropospherical Portal Frame",
+  "block.skylandscore.tropo_nether_portal_block": "Tropospherical Nether Portal Frame",
+
+
+  "block.skylandscore.amplified_portal_end_block": "Amplified End Portal Frame",
+  "block.skylandscore.meso_portal_end_block": "Mesospherical End Portal Frame",
+  "block.skylandscore.exo_portal_end_block": "Exospherical End Portal Frame",
+  "block.skylandscore.strato_portal_end_block": "Stratospherical End Portal Frame",
+  "block.skylandscore.ogstrato_portal_end_block": "Original Stratospherical End Portal Frame",
+  "block.skylandscore.thermo_portal_end_block": "Thermospherical End Portal Frame",
+  "block.skylandscore.tropo_portal_end_block": "Tropospherical End Portal Frame",
+
+
+  "creativetab.ecospherical_dimensions_tab": "Escape from Skylands"
+}

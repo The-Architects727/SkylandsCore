@@ -1,0 +1,80 @@
+{
+  "name": "Mesospherical",
+  "icon": "skylandscore:pearl_dragon_essence",
+  "category": "skylandscore:portals_category",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Mesospherical Dimension, and will take the player to the End to begin the Fifth boss fight.$(br)This portal is made from \"Mesospherical End Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "End Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:meso_portal_end_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Pearl Crystal Tablet\""
+
+    },
+
+
+
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Mesospherical Dimension, and will take the player to the Mesospherical Nether$(br)This portal is made from \"Mesospherical Nether Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "End Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:meso_nether_portal_block"
+        }
+      },
+      "text": "This portal frame must be lit using a $(item)\"Bucket of Lava\""
+
+    },
+
+
+
+    {
+      "type": "patchouli:text",
+      "text": "This portal can only be lit in the Mesospherical Dimension, and will take the player back to the Stratospherical Dimension.$(br)This portal is made from \"Mesospherical Portal Frames\""
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Return Portal",
+      "multiblock": {
+        "pattern": [
+          ["_","P","P","_"],
+          ["P","_","_","P"],
+          ["P","_","_","P"],
+          ["P","0","_","P"],
+          ["_","P","P","_"]
+        ],
+        "mapping": {
+          "P": "skylandscore:meso_portal_block"
+        }
+      },
+      "text": "This portal frame must be lit using the $(item)\"Blue Dragon Essence\""
+    }
+  ]
+}

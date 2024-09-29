@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "skylandscore:pearl_crystal_brick",
+		"count": 1
+	},
+	"result": {
+		"item": "skylandscore:charged_pearl_crystal_brick",
+		"count": 1
+	},
+	"energy": 150000,
+	"maxChargeRate": 200
+}

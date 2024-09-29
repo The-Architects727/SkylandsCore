@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_jagged_stone_tablet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "skylandscore:jagged_stone_tablet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "skylandscore:amplified_portal_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_jagged_stone_tablet",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "skylandscore:amplified_portal_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

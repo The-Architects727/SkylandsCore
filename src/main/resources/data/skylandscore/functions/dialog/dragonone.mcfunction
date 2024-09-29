@@ -1,0 +1,1 @@
+execute as @a[advancements={skylandscore:kill_vanilla_dragon=true}] run function skylandscore:leavestrato

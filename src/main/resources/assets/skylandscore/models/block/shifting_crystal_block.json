@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "skylandscore:block/shifting_crystal_block"
+  }
+}

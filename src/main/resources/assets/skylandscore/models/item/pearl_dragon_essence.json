@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "skylandscore:item/blue_dragon_essence"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "skylandscore:laminated_crystal_tablet"
+    },
+    "W": {
+      "item": "biomesoplenty:fir_wood"
+    }
+  },
+  "pattern": [
+    "WDW",
+    "DDD",
+    "WTW"
+  ],
+  "result": {
+    "count": 5,
+    "item": "skylandscore:strato_nether_portal_block"
+  },
+  "show_notification": true
+}

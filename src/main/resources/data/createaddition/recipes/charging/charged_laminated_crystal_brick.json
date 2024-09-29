@@ -1,0 +1,13 @@
+{
+	"type":"createaddition:charging",
+	"input": {
+      	"item": "skylandscore:laminated_crystal_brick",
+		"count": 1
+	},
+	"result": {
+		"item": "skylandscore:charged_laminated_crystal_brick",
+		"count": 1
+	},
+	"energy": 5000,
+	"maxChargeRate": 200
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "skylandscore:item/charged_heated_crystal_brick"
+  }
+}

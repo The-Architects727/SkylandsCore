@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_shifting_crystal_tablet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "skylandscore:shifting_crystal_tablet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "skylandscore:tropo_portal_end_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_shifting_crystal_tablet",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "skylandscore:tropo_portal_end_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

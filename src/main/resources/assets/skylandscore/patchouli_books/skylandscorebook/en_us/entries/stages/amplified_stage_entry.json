@@ -1,0 +1,89 @@
+{
+  "name": "Amplified Stage",
+  "icon": "skylandscore:jagged_pickaxe",
+  "category": "skylandscore:stages_category",
+  "read_by_default": true,
+  "sortnum": 7,
+  "pages": [
+    {
+      "title": "Shifting Upgrade Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_dragon_upgrade_template"
+      },
+      "text": "This is used to upgrade a diamond pickaxe to the \"Shifting\" level.$(br2) This is made from Spouting \"Liquid Purple Dragon Essence\" onto a \"Netherite Upgrade Template\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_pickaxe"
+      },
+      "text": "This pickaxe is required to mine the \"Jagged Stone Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:jagged_stone_ore"
+      },
+      "text": "Can only be mined with a \"Shifting Pickaxe\" or higher."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:jagged_stone"
+      },
+      "text": "Obtained from \"Jagged Stone Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:jagged_stone_dust"
+      },
+      "text": "Made from crushing \"Jagged Stones\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:jagged_stone_brick"
+      },
+      "text": "Made from compacting \"Jagged Stone Dust\", \"Clay Balls\", and \"Lava\"."
+    },
+    {
+      "title": "Charged Jagged Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_jagged_stone_brick"
+      },
+      "text": "Made from Electrifying \"Jagged Stone Bricks\"."
+    },
+    {
+      "title": "Shifting Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_dragon_essence"
+      },
+      "text": "Obtained from killing the \"Tropospherical Shard of the Dragon\"."
+    },
+    {
+      "title": "Liquid Purple Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:purple_dragon_essence_bucket"
+      },
+      "text": "Obtained from draining a \"Shifting Dragon Essence\" item."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:jagged_stone_tablet"
+      },
+      "text": "Obtained from a Sequenced Assembly starting with \"Charged Jagged Crystal Brick\", and adding to it \"Jagged Crystal\", and \"Liquid Purple Dragon Essence\"."
+    },
+    {
+      "title": "End Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:amplified_portal_end_block",
+      "text": "Used in making the Amplified End Portal"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Tropo Stage",
+  "icon": "skylandscore:shifting_pickaxe",
+  "category": "skylandscore:stages_category",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "title": "Shifting Upgrade Template",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_dragon_upgrade_template"
+      },
+      "text": "This is used to upgrade a diamond pickaxe to the \"Shifting\" level.$(br2) This is made from Spouting \"Liquid Blue Dragon Essence\" onto a \"Netherite Upgrade Template\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_pickaxe"
+      },
+      "text": "This pickaxe is required to mine the \"Shifting Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_crystal_ore"
+      },
+      "text": "Can only be mined with a \"Shifting Pickaxe\" or higher."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_crystal"
+      },
+      "text": "Obtained from \"Shifting Crystal Ore\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_crystal_dust"
+      },
+      "text": "Made from crushing \"Shifting Crystals\"."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_crystal_brick"
+      },
+      "text": "Made from compacting \"Shifting Crystal Dust\", \"Clay Balls\", and \"Lava\"."
+    },
+    {
+      "title": "Charged Shifting Brick",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:charged_shifting_crystal_brick"
+      },
+      "text": "Made from Electrifying \"Shifting Crystal Bricks\"."
+    },
+    {
+      "title": "Pearl Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:heated_dragon_essence"
+      },
+      "text": "Obtained from killing the \"Thermospherical Shard of the Dragon\"."
+    },
+    {
+      "title": "Liquid Blue Essence",
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:blue_dragon_essence_bucket"
+      },
+      "text": "Obtained from draining a \"Pearl Dragon Essence\" item."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "skylandscore:shifting_crystal_tablet"
+      },
+      "text": "Obtained from a Sequenced Assembly starting with \"Charged Shifting Crystal Brick\", and adding to it \"Shifting Crystal\", and \"Liquid Blue Dragon Essence\"."
+    },
+    {
+      "title": "Nether Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:tropo_portal_block",
+      "text": "Used in making the Tropospherical Nether Portal"
+    },
+    {
+      "title": "End Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:tropo_portal_end_block",
+      "text": "Used in making the Tropospherical End Portal"
+    },
+    {
+      "title": "Return Portal",
+      "type": "patchouli:crafting",
+      "recipe": "skylandscore:tropo_nether_portal_block",
+      "text": "Used in making the Tropospherical Portal"
+    }
+  ]
+}

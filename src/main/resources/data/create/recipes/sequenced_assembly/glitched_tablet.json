@@ -1,0 +1,77 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "skylandscore:charged_glitched_stone_brick"
+  },
+  "transitionalItem": {
+    "item": "skylandscore:unfinished_glitched_stone_tablet"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        },
+        {
+          "item": "skylandscore:glitched_stone"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        },
+        {
+          "fluid": "skylandscore:magenta_dragon_essence_fluid",
+          "nbt": {},
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        }
+      ],
+      "results": [
+        {
+          "item": "skylandscore:unfinished_glitched_stone_tablet"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "skylandscore:glitched_stone_tablet"
+    }
+  ],
+  "loops": 50
+}
